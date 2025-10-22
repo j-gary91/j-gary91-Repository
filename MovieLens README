@@ -1,0 +1,14 @@
+MovieLens
+An entertainment company providing an online database of data on films, television series, and online streaming content, which included information on movie/film casts, production crews, trivia, ratings, and critical reviews. Every year, MovieLens publishes its annual insights based on a theme, providing a comprehensive view of a topic. This year, the theme was “Movie Talkies: Classics”. I was tasked to statistically analyze their current consumer base’s movie preferences and find the best movies to promote to attract new consumers.
+
+These are the metrics I was tasked with finding:
+1. How many movies & their distinct genres from our database were released before 2000?
+2. How many consumers subscribe to MovieLens, and what is the gender diversity?
+3. To further highlight user engagement, what specific genres were preferred, comparing men to women
+4. What's the average classic movie user rating we have that would reflect overall reception?
+5. How does the distribution of movies in our database vary across different genres?
+6. What does the demographic distribution of our subscribers look like, and where do these users live?
+7. What do movie preferences look like across different age groups & professions, and how does this reflect different generational interests?
+8. What are the top-rated movies & genres, and how do their ratings differ across user age and occupation?
+9. Is there a link between the consumer’s age and the ratings they give - and what can we learn about age-related viewing habits?
+10. How do the average ratings of movies in our database change year over year?
